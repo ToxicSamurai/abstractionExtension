@@ -1,5 +1,5 @@
 //ToxicSamurai
-//Anyone may use or edit
+//Licensed under Creative Commons CC-BY-NC-SA
 
 //Controls the size of the circles
 int speed;
